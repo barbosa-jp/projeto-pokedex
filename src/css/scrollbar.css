@@ -12,3 +12,7 @@
     background-color: #212121;
     border: 3px solid #ffffff;
   }
+
+  .modo-claro *::-webkit-scrollbar-thumb {
+    background-color: #5e5b5ead;
+  }
